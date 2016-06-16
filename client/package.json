@@ -1,0 +1,41 @@
+{
+  "name": "signalr-react-mobx",
+  "version": "1.0.0",
+  "description": "Example illustrating React, MobX, SignalR, .NET WebApi, Typescript and WebPack",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesholcomb/signalr-react-mobx.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "typescript",
+    "mobx",
+    "signalr",
+    "webpack"
+  ],
+  "author": "James Holcomb <james.holcomb@gmail.com> (http://github.com/jamesholcomb)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesholcomb/signalr-react-mobx/issues"
+  },
+  "devDependencies": {
+    "expose-loader": "^0.7.1",
+    "ts-loader": "^0.8.1",
+    "typescript": "^1.8.2",
+    "webpack": "^1.9.6",
+    "webpack-dev-server": "^1.8.2"
+  },
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "mobx": "^2.0.2",
+    "mobx-react": "^3.0.1",
+    "mobx-react-devtools": "^4.0.2",
+    "ms-signalr-client": "^2.2.2",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  }
+}
