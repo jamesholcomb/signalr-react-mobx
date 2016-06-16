@@ -17,3 +17,4 @@ A simple Echo app demonstrating:
 * `npm install`
 * `npm start`
 
+![](browser.gif)
